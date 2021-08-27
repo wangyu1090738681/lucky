@@ -22,7 +22,7 @@ class TestC02Controller extends Controller
           'name'=>$name
       ]);
        //来自p01的项目
-//sddsd
+//sddsd收到
      //push 。。63
  }
 }
