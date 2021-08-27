@@ -18,11 +18,9 @@ class TestC02Controller extends Controller
      $name=$request->get('name');
       return response()->json([
           'code'=>'121',
-          'data'=>'测试模拟',
+          'data'=>'up_p01本地修改后',
           'name'=>$name
       ]);
-       //来自p01的项目
-//sddsd收到
-     //push 。。63
+
  }
 }
