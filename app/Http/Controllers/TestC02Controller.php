@@ -21,7 +21,8 @@ class TestC02Controller extends Controller
           'data'=>'up_p01本地修改后',
           'name'=>$name
       ]);
-      //第二次更新本地项目
+      //第二次更新本地项请问
+     echo"1111";
 
  }
 }
